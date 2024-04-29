@@ -3,7 +3,7 @@
 * {
     color: inherit;
     margin: 0;
-    padding: 0
+    padding: 0;
 }
 .article-title,
 .section-title {
@@ -329,5 +329,5 @@ iframe {
     border-radius: 10px;
     display: block;
     color: #fff;
-    font-size: 1rem
+    font-size: 1rem;
 }
