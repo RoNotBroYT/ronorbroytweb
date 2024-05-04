@@ -1,3 +1,3 @@
-# JAMStack personal blog - starter files
+# RoNotBroYT
 
 Welcome to my blog repo
